@@ -10,6 +10,8 @@ The project demonstrates how to manage user state on-chain using Rust smart cont
 
 Developed as part of the **Solana Developer Certification**.
 
+![Builder Energy Game UI](builder_energy_game.png)
+
 ---
 
 # Overview
