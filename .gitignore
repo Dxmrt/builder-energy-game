@@ -1,0 +1,16 @@
+# Solana / Anchor keypairs y secretos
+
+.anchor
+.DS_Store
+target
+**/*.rs.bk
+node_modules
+test-ledger
+.yarn
+*.json.key
+*keypair.json
+**/id.json
+*.env
+.env.local
+.env.development.local
+.env.production.local
